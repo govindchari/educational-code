@@ -12,6 +12,6 @@ the motivation, setup, and results.
 - [Robust Quadratic Formula](./robust-quadratic-formula/README.md): a small C
   example showing how the citardauq formula avoids catastrophic cancellation in
   a step-length computation near a second-order cone boundary.
-- [Batch Sparse Linear System Solver Benchmark](./batch_linsys/README.md): a
+- [Batch Sparse Linear System Solver Benchmark](./batch-linsys/README.md): a
   Python benchmark comparing serial CPU sparse solves and batched GPU solves for
   KKT-style linear systems from finite-horizon LQR problems.
