@@ -1,0 +1,12 @@
+numpy==2.4.6
+scipy==1.17.1
+qdldl==0.1.9.post1
+jax[cuda13]==0.10.1
+jaxlib==0.10.1
+matplotlib==3.10.9
+scikit-build-core>=0.5
+nanobind==2.12.0
+nvidia-cudss-cu13==0.7.1.6
+equinox==0.13.8
+jaxtyping==0.3.10
+spineax[cuda13] @ git+https://github.com/johnviljoen/spineax.git@e02a18582ba9c7fea10e7fcd49191847ff4fe68d
